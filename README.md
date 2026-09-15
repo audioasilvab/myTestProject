@@ -5,3 +5,5 @@
 in progress...
 
 The README.md will be updated gradually.
+
+This is achieved by making two withdrawal requests.
