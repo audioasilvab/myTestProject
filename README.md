@@ -8,4 +8,4 @@ The README.md will be updated gradually.
 
 This is achieved by making two withdrawal requests.
 
-<b>by audioasilvab - 2026</b>
+<b>by audioasilvab - 2026.</b>
